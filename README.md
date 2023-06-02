@@ -1,2 +1,2 @@
 # My-project-Flipkart-
-clone website of Flipkart compatible for all devices.
+Clone website of Flipkart compatible for all devices.
